@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670689650 source:/home/denni/Escritorio/arbol_navidad/main.cpp
+	<iostream>
+	<string>
+	<unistd.h>
+	<stdio.h>
+
